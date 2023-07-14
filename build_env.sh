@@ -17,6 +17,5 @@ git config --global user.email shripadsuper@gmail.com
 git config --global user.name shripad
 
 #Start Rising Sync Script
-#!/bin/bash
-chmod a+x sync.sh
-sh ./rising.sh
+
+bash rising.sh

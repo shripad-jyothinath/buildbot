@@ -6,4 +6,4 @@ repo sync -c --no-clone-bundle --optimized-fetch --prune --force-sync -j$(nproc 
 git clone git@github.com:shripad-jyothinath/device_xiaomi_spes.git device/xiaomi/spes
 
 #Call the next script
-chmod a+x build.sh
+bash build.sh

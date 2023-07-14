@@ -7,4 +7,4 @@ repo init --depth=1 --no-repo-verify -u https://github.com/shripad-jyothinath/an
 
 #Call the next script
 chmod a+x sync.sh
-sh ./sync.sh
+bash sync.sh
